@@ -1,0 +1,10 @@
+---
+title: "Blog"
+listing:
+  contents: posts
+  sort: "date desc"
+  type: default
+  categories: true
+---
+
+공부한 내용을 기록하는 블로그 공간입니다. 오른쪽 카테고리를 통해 분야별로 모아볼 수 있습니다.

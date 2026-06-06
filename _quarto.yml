@@ -1,8 +1,8 @@
 project:
   type: website
+  output-dir: docs
 
 website:
-  description: "A blog built with Quarto"
   title: "Yura Jeong"
   site-url: https://yura0703.github.io
   navbar:
